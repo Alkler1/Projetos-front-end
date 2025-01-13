@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifólio Mateus</title>
+    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+    <style>
+        body {
+            background-color: rgb(238, 197, 163);
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color: rgb(161, 81, 56);
+        }
+        h1 {
+            color: rgb(161, 81, 56);
+        }
+        h2 {
+            color: rgb(161, 81, 56);
+        }
+    </style>
+</head>
+<body>
+    <h1>Meu portifólio na prática</h1>
+    <h2>quem sou eu?</h2>
+    <img src="imagens/Imagem_250.png" alt="Foto minha">
+    <p>Meu nome é <strong>Mateus Machado Taborda Ribas</strong> sou iniciante no ramo de programação e desenvolvimento, porém aqui deixo o resultado da minha dedicação e estudos  ao longo dos últimos dias, parece pouco, mas é o passo inicial que tenho certeza que me gerará uma oportunidade de trabalhar com o que eu gosto futuramente!</p>
+    <q>O hábito faz o monge.</q>
+    <hr>
+    <h2>Redes Sociais:</h2>
+    <ul type="square">
+        <li><img src="imagens/facebook_15.png" alt="Logo facebook"><a href="https://www.facebook.com/profile.php?id=100008814914628" target="_blank" rel="external"><em>Mateus Machado Taborda Ribas</em></a> Me adicione lá! &#x1F49C</li>
+        <li><img src="imagens/Github_15.png" alt="logo github"><a href="https://github.com/Alkler1" target="_blank" rel="external"><em>_Alkler1</em></a> Meu repositório no Github. &#x1F49C</li>
+        <li><img src="imagens/Instagram_15.png" alt="logo instagram"><a href="https://www.instagram.com/alkler_/" target="_blank" rel="external"><em>alkler_</em></a> Me segue lá! &#x1F49C</li>
+        <li><img src="imagens/linkedin_15.png" alt="logo linkedin"><a href="https://www.linkedin.com/in/mateus-taborda-767381201/" target="_blank" rel="external"><em>mateus-machado</em></a> Me adicione lá pra gente trocar uma ideia! &#x1F49C</li>
+        <li><img src="imagens/Youtube-15.png" alt="logo youtube"><a href="https://www.youtube.com/@alkler1587" target="_blank" rel="external">@alkler1587</a> Se increve lá no meu canal! &#x1F49C</li>
+    </ul>
+    <h2>Acesso a mais conteúdos que eu desenvolvi</h2>
+    aperte <a href="página2.html" rel="next">aqui</a> para acessar a mais conteúdos.
+</body>
+</html>
