@@ -1,0 +1,31 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: var(--color-bg2);
+}
+body[data-theme="t-light"]{
+    --color-bg: #e2d6d6;
+    --color-bg2: #ffff;
+    --color-text: #333;
+}
+body[data-theme="t-dark"]{
+    --color-bg: #403c49;
+    --color-bg2: #222027;
+    --color-text: #f2f2f2;
+    
+}
+.my-title {
+    color: var(--color-text)
+}
+.field {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    border: none;
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+.button{
+    background-color:  var(--color-bg);
+    color:  var(--color-text);
+    border: none;
+    padding: 20px;
+}
